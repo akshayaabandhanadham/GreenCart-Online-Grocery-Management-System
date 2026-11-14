@@ -1,4 +1,4 @@
-#  Greencart Assessment
+#  Greencart Online Grocery System
 
 This repository contains the **frontend** and **backend** code for the Greencart Assessment project.
 
