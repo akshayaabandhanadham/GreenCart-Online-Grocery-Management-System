@@ -10,7 +10,7 @@ This repository contains the **frontend** and **backend** code for the Greencart
 ---
 
 ## 📂 Project Structure
-greencart-assessment/
+Greencart Online Grocery System/
 ├── frontend/   # React.js application
 ├── backend/    # Node.js + Express API
 
